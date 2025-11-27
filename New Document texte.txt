@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Site en construction</title>
+  <style>
+    body {
+      background: #f4f4f4;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: #333;
+    }
+    h1 {
+      font-size: 40px;
+      margin: 0 0 20px 0;
+    }
+    p {
+      font-size: 22px;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Site en construction</h1>
+    <p>Lancement prévu le <strong>1er décembre 2025</strong></p>
+  </div>
+</body>
+</html>
